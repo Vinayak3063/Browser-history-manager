@@ -17,7 +17,7 @@ This program allows users to add, view, search, and delete visited URLs, as well
 
 🛠️ Tech Highlights:
 
-Built entirely in Java for portability
+Built entirely in c language for portability
 
 Utilizes Stacks and Queues to mimic browser navigation
 
